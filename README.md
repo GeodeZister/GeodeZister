@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Oleksandr!
+#  Hi, I'm Oleksandr!
 
-## 🌟 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrabovyi/)
 
@@ -9,24 +9,24 @@
 
 ---
 
-## 🔥 About Me
+##  About Me
 
-🎯 **Specialization:**
+ **Specialization:**
 - ML Developer
 - Backend Developer
 - AI Integration 
 
-💡 **Interests:**
-- AI Development 🤖
-- AI Integration 🧠
-- Data Analytics 📊
-- Automated & Autonomous Systems 🚀
+ **Interests:**
+- AI Development 
+- AI Integration 
+- Data Analytics 
+- Automated & Autonomous Systems 
 
-📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/hrabovyi/)
+ **Contact Me:** [LinkedIn](https://www.linkedin.com/in/hrabovyi/)
 
 ---
 
-## 🚀 My Stack & Tools
+##  My Stack & Tools
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 Stats
+##  Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeodeZister&show_icons=true&theme=radical)
 
