@@ -14,7 +14,7 @@
 🎯 **Specialization:**
 - ML Developer
 - Backend Developer
-- AI Integration Expert
+- AI Integration 
 
 💡 **Interests:**
 - AI Development 🤖
@@ -42,7 +42,6 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/><br>AWS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50"/><br>GitHub Actions</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React</td>
