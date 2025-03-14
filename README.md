@@ -1,27 +1,27 @@
 # 👋 Hi, I'm Oleksandr!
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo)
-![GitHub top language](https://img.shields.io/github/languages/top/your-username/your-repo)
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo)
+![GitHub followers](https://img.shields.io/github/followers/GeodeZister?style=social)
+![GitHub stars](https://img.shields.io/github/stars/GeodeZister?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/GeodeZister/your-repo)
+![GitHub top language](https://img.shields.io/github/languages/top/GeodeZister/your-repo)
+![GitHub license](https://img.shields.io/github/license/GeodeZister/your-repo)
 
 ## 🔥 About Me
 
 - 🎯 **Specialization:** ML Developer, Backend Developer, AI Integration Expert
-- 🚀 **Technologies:** Python, TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask, Django, PostgreSQL, Redis, Docker, Kubernetes, AWS, GCP, CI/CD, and other supporting services
+- 🚀 **Technologies:** TensorFlow, PyTorch, Scikit-learn, FastAPI, Node, PostgreSQL, Docker, AWS, CI/CD, and other supporting services
 - 💡 **Interests:** AI Development, AI Integration, Data Analytics, Automated & Autonomous Systems
 - 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/hrabovyi/)
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeodeZister&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeodeZister&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dracula)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=GeodeZister&theme=dracula)
 
 ---
 
