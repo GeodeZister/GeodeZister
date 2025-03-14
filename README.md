@@ -14,7 +14,7 @@
 🎯 **Specialization:**
 - ML Developer
 - Backend Developer
-- AI Integration Expert
+- AI Integration
 
 💡 **Interests:**
 - AI Development 🤖
